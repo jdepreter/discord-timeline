@@ -1,10 +1,43 @@
 # Timeline
-## Age of Benny
+
+## The Prequel
+
+### October 2019
+4/10/19:
+- Discord Server Created
+
+31/10/19:
+- First meme\
+"Als wiskunde niet meer werkt"\
+\# Include \<magic\>\
+![Stijn doet magie](/img/firstmeme.png)
+
+### November 2019
+- Oh so you have deadlines? 
+    - AI 
+    - Gedistr. Systemen
+    - SE
+    - Telecom
+    - WP
+
+
+## Age of Latré
 
 ### March 2020
+
+- Trying to get approvals 
+- Merge Conflicts
+- "/"
+
+3/3/20
+- Memes channel created\
+Sergio's mental state slowly deteriorates over time 
+
 16/3/2020 
 - Campus closed
 - The taking of the Raspberry Pi's
+
+
 
 ## Age of Hans
 
@@ -15,13 +48,18 @@
 
 
 ### October 2020
+
+7/10/20:
+- Creation of "Groups Mosis" excel sheet\
+(tic tac toe, emojis, markers, you name it)
+
 14/10/20: 
 - Birth of :hans:\
 ![](/img/hans.png)
 
 16/10/20: 
 - First use of :pray: :hans: :pray: by Kristof
-- MoSIS Cult established
+- **MoSIS Cult established**
 
 
 ### November 2020
@@ -34,7 +72,7 @@ The Keeper of Time, The Giver of Prayers, The Cause of riots.
 - Birth of :evilhans: son of Pravesh\
 ![Evil Hans](/img/evilhans.png)
 - First use of !riot:  
- "We have been scammed, time for a riot :fire: :house_abandoned: :fire:"
+ "We have been scammed, time for a riot :fire: :derelict_house: :fire:"
 - ":partying_face: THE ASSIGNMENT HAS ARRIVED :partying_face:"
 
 23/11/20
